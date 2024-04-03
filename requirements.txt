@@ -1,0 +1,3 @@
+torch
+ultralytics
+gunicorn==19.9.0
