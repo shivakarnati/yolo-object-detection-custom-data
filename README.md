@@ -1,5 +1,7 @@
-Step 1: Download the dataset from https://www.fsoco-dataset.com/download
-Step 2: Convert the dataset using https://www.fsoco-dataset.com/tools/ or https://github.com/fsoco/fsoco-dataset/tree/master/tools
+Step 1: Download the dataset from https://www.fsoco-dataset.com/download \\
+
+Step 2: Convert the dataset using https://www.fsoco-dataset.com/tools/ or https://github.com/fsoco/fsoco-dataset/tree/master/tools \\
+
 Step 3: Create Conda environment with the following configurations:
 	``# Create new environment with Python 3.8
 	conda create -n fsoco python=3.8
