@@ -32,6 +32,7 @@ Step 3: Create Conda environment with the following configurations:
 	# to read the help tooltips before executing them or set the according options correctly.``
 
 Step 4: Convert the dataset from Supervisely format to Yolo format
+	``$ fsoco label-converts sly2yolo project_folder output_folder` 
 
 Step 5: Train your yolo model with the converted dataset
 	
